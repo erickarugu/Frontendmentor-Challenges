@@ -79,7 +79,7 @@ body {
   color: hsl(234, 12%, 34%);
 }
 
-.container .col .box #image {
+.container .col .box .image {
   text-align: right;
   margin: 30px 5px 10px;
 }
